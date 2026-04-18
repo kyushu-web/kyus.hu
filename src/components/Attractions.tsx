@@ -5,37 +5,37 @@ const PLACES = [
   {
     name: "Kumamoto Castle",
     location: "Kumamoto",
-    image: "https://images.unsplash.com/photo-1617544026365-eb7bd86fc3db?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1705695464723-56195396666b?q=80&w=800&auto=format&fit=crop",
     description: "One of Japan's three premier castles, renowned for its formidable stone walls and defensive architecture. Originally built in 1607."
   },
   {
     name: "Mount Aso",
     location: "Kumamoto",
-    image: "https://images.unsplash.com/photo-1601662528567-526cd06f6582?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1615340244831-c1c940e708ca?q=80&w=800&auto=format&fit=crop",
     description: "An active volcano featuring one of the largest calderas in the world. The stunning grass-covered plains contrast with the smoking crater."
   },
   {
     name: "Beppu Onsen",
     location: "Oita",
-    image: "https://images.unsplash.com/photo-1594950853757-bcaf6ffea914?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1752917868539-c4d8e3bc0804?q=80&w=800&auto=format&fit=crop",
     description: "A famous hot spring resort town that produces more hot spring water than anywhere else in Japan, marked by its numerous steam vents."
   },
   {
     name: "Takachiho Gorge",
     location: "Miyazaki",
-    image: "https://images.unsplash.com/photo-1627918349141-86a07cfdc886?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1773933609615-8efca4a7c512?q=80&w=800&auto=format&fit=crop",
     description: "A V-shaped gorge created by the Gokase River cutting through volcanic rock. Visitors can paddle through the steep, lush cliffs."
   },
   {
     name: "Yatai Food Stalls",
     location: "Fukuoka",
-    image: "https://images.unsplash.com/photo-1558237785-cfd081f9a202?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1764073231256-16b148ff180c?q=80&w=800&auto=format&fit=crop",
     description: "Iconic open-air food stalls lining the streets of Nakasu, offering Hakata ramen, yakitori, and an unforgettable communal atmosphere."
   },
   {
     name: "Yakushima",
     location: "Kagoshima (Island)",
-    image: "https://images.unsplash.com/photo-1508688849646-6395ec6be134?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1723536524589-1fbfa413fda3?q=80&w=800&auto=format&fit=crop",
     description: "A subtropical island known for its ancient cedar forests, some trees over 1,000 years old. Inspiration for Studio Ghibli's Princess Mononoke."
   }
 ];

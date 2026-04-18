@@ -91,13 +91,13 @@ export default function Culture() {
               className="grid grid-cols-2 gap-4"
             >
               <img 
-                src="https://images.unsplash.com/photo-1628108500201-9bc0ab468b8e?q=80&w=800&auto=format&fit=crop" 
+                src="https://images.unsplash.com/photo-1635379511574-bc167ca085c8?q=80&w=800&auto=format&fit=crop" 
                 alt="Ramen"
                 referrerPolicy="no-referrer"
                 className="object-cover h-80 w-full rounded-sm filter grayscale hover:grayscale-0 transition-all duration-700"
               />
               <img 
-                src="https://images.unsplash.com/photo-1590457635293-19bd69ea00ac?q=80&w=800&auto=format&fit=crop" 
+                src="https://images.unsplash.com/photo-1670672013421-ec17c92a66d8?q=80&w=800&auto=format&fit=crop" 
                 alt="Pottery"
                 referrerPolicy="no-referrer"
                 className="object-cover h-80 w-full mt-12 rounded-sm filter grayscale hover:grayscale-0 transition-all duration-700"
